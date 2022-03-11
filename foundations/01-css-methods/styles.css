@@ -1,0 +1,9 @@
+div{
+    color:white;
+    background-color: red;
+    background-clip:border-box;
+    font-size: 60px;
+    font-weight: 900;
+    font-family: "Verdana", sans-serif;
+    padding-left:20px;    
+}

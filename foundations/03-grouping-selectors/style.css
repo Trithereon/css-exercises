@@ -1,0 +1,14 @@
+.blackboy {
+    background-color:black;
+    color:white;
+}
+
+.yellowboy {
+    background-color:yellow;
+}
+
+.blackboy,
+.yellowboy{
+    font-size:28px;
+    font-family:Helvetica,"Times New Roman", sans-serif;
+}
